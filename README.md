@@ -13,10 +13,11 @@ Focus areas:
 
 # Private Audits
 
-| Year       | Protocol         | Category     | Report                        | Audit Company |
-| ---------- | ---------------- | ------------ | ----------------------------- |---------------|
-| 2026 (Feb) | YadaCoin         | Bridge       | [Report](YadaCoin_Zealynx_Audit_Report_February_2026.pdf) |[Zealynx](https://www.zealynx.io/)|
-| 2025 (Oct) | SaucerSwap       | Order Core   | [Report](SaucerSwap-Core-Order-Security-Review-October-2025.pdf) ||
+| Year       | Protocol         | Category                          | Report                        | Audit Company |
+| ---------- | ---------------- | --------------------------------- | ----------------------------- |---------------|
+| 2026 (Apr) | DimesMultiply    | Leveraged Prediction Market       | on going                      |[Zealynx](https://www.zealynx.io/)|
+| 2026 (Feb) | YadaCoin         | Bridge                            | [Report](YadaCoin_Zealynx_Audit_Report_February_2026.pdf) |[Zealynx](https://www.zealynx.io/)|
+| 2025 (Oct) | SaucerSwap       | Order Core                        | [Report](SaucerSwap-Core-Order-Security-Review-October-2025.pdf) ||
 
 ---
 
