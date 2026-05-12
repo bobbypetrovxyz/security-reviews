@@ -25,6 +25,7 @@ Focus areas:
 
 | Year       | Protocol                         | Category          | Placement | Contest Platform   | Report                        |
 | ---------- | -------------------------------- | ----------------- | --------- | ------------------ | ----------------------------- |
+| 2026 (Apr) | Monetrix                         | Yield-bearing stable token     |           | Code4rena          |Judging phase|
 | 2026 (Apr) | Wonderland                       | Live CTF          | 21th      | ETHCC - Wonderland |Team participation 21 out of 70 teams [Report](https://ctf.wonderland.xyz/leaderboard) |
 | 2026 (Mar) | Chainlink Payment Abstraction V2 | Dutch Auction     |           | Code4rena          |Judging phase|
 | 2026 (Mar) | RevertFinance                    | Lending           |           | Cantina            |Judging phase|
