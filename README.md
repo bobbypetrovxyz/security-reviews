@@ -9,6 +9,7 @@ Focus areas:
 * Liquidation mechanisms and solvency analysis
 * Economic exploits and protocol-level attack surfaces
 * Stateful fuzzing and invariant-driven testing
+* AI-assisted audit workflows
 
 ---
 
